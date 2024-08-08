@@ -5,9 +5,11 @@ I'm making a blog! Isn't that cool?
 
 Imma write about:
 
-- *My path to contributing to CPython*
-- Improving HarvestMemory
+- *My path to contributing to [CPython](https://github.com/python/cpython)*
+- **Improving [HarvestMemory](https://github.com/AZHenley/HarvestMemory)**
 - Favorite books
-- other shit
+- Adventures in management
 
-you should check it out 
+You should keep an eye on this page
+
+(You should also check out my inspiration for making this blog [Austin Z. Henley](https://austinhenley.com/blog.html))
